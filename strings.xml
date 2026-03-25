@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zero Sec</string>
+    <string name="notification_monitoring">Monitorando sistema em tempo real</string>
+    <string name="notification_scanning">Varrendo sistema...</string>
+    <string name="shizuku_required">Shizuku necessário para análise avançada</string>
+</resources>
